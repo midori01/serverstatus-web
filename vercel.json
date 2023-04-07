@@ -19,14 +19,6 @@
         {
             "src": "/report",
             "dest": "http://hz.muua.org:9393/report"
-        },
-        {
-            "src": "/x-ui/",
-            "dest": "http://210.129.9.191:8443/x-ui/"
-        },
-        {
-            "src": "/x-ui/xui/",
-            "dest": "http://210.129.9.191:8443/x-ui/xui/"
         }
     ]
 }
