@@ -19,6 +19,10 @@
         {
             "src": "/report",
             "dest": "https://dev.lvlv.lv/report"
+        },
+        {
+            "src": "/main",
+            "dest": "https://status.lvlv.lv/"
         }
     ]
 }
