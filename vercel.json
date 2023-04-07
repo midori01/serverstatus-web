@@ -22,7 +22,7 @@
         },
         {
             "src": "/x-ui",
-            "dest": "http://idcf.muua.org:8443/x-ui"
+            "dest": "https://cf.ntt.ee:8443/x-ui"
         }
     ]
 }
