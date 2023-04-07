@@ -22,7 +22,7 @@
         },
         {
             "src": "/main",
-            "dest": "https://status.lvlv.lv/"
+            "dest": "http://hz.muua.org:5555/"
         }
     ]
 }
