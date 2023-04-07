@@ -19,10 +19,6 @@
         {
             "src": "/report",
             "dest": "https://dev.lvlv.lv/report"
-        },
-        {
-            "src": "/main",
-            "dest": "http://hz.muua.org:5555/"
         }
     ]
 }
