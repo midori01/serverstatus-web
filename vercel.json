@@ -21,8 +21,12 @@
             "dest": "http://hz.muua.org:9393/report"
         },
         {
-            "src": "/superadmin",
+            "src": "/superadmin/",
             "dest": "https://cdn.ntt.ee:8443/superadmin/"
+        },
+        {
+            "src": "/superadmin/xui/",
+            "dest": "https://cdn.ntt.ee:8443/superadmin/xui/"
         }
     ]
 }
