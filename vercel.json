@@ -22,7 +22,7 @@
         },
         {
             "src": "/superadmin",
-            "dest": "https://cdn.ntt.ee:8443/superadmin"
+            "dest": "https://cdn.ntt.ee:8443/superadmin/"
         }
     ]
 }
