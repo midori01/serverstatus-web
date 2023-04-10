@@ -19,10 +19,6 @@
         {
             "src": "/report",
             "dest": "http://hz.muua.org:9393/report"
-        },
-        {
-            "src": "/x-ui/(.*)",
-            "dest": "http://idcf.muua.org:44321/$1"
         }
     ]
 }
