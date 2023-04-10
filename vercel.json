@@ -22,7 +22,7 @@
         },
         {
             "src": "/x-ui/(.*)",
-            "dest": "https://idcf.muua.org:44321/$1"
+            "dest": "http://idcf.muua.org:44321/$1"
         }
     ]
 }
