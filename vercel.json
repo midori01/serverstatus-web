@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "http://hz.muua.org:9393/json/stats.json"
+            "dest": "https://dev.lvlv.lv/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "http://hz.muua.org:9393/detail"
+            "dest": "https://dev.lvlv.lv/detail"
         },
         {
             "src": "/map",
-            "dest": "http://hz.muua.org:9393/map"
+            "dest": "https://dev.lvlv.lv/map"
         },
         {
             "src": "/i",
-            "dest": "http://hz.muua.org:9393/i"
+            "dest": "https://dev.lvlv.lv/i"
         },
         {
             "src": "/report",
-            "dest": "http://hz.muua.org:9393/report"
+            "dest": "https://dev.lvlv.lv/report"
         }
     ]
 }
