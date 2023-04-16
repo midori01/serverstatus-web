@@ -19,6 +19,10 @@
         {
             "src": "/report",
             "dest": "https://dev.lvlv.lv/report"
+        },
+        {
+            "src": "/grafana",
+            "dest": "https://lv.lvlv.lv/grafana"
         }
     ]
 }
