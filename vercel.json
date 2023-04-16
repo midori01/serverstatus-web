@@ -21,6 +21,10 @@
             "dest": "https://dev.lvlv.lv/report"
         },
         {
+            "src": "/node",
+            "dest": "https://lv.lvlv.lv/node"
+        },
+        {
             "src": "/grafana",
             "dest": "https://lv.lvlv.lv/grafana"
         }
