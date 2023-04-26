@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "https://dev.lvlv.lv/json/stats.json"
+            "dest": "https://lvlv.lv/server/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "https://dev.lvlv.lv/detail"
+            "dest": "https://lvlv.lv/server/detail"
         },
         {
             "src": "/map",
-            "dest": "https://dev.lvlv.lv/map"
+            "dest": "https://lvlv.lv/server/map"
         },
         {
             "src": "/i",
-            "dest": "https://dev.lvlv.lv/i"
+            "dest": "https://lvlv.lv/server/i"
         },
         {
             "src": "/report",
-            "dest": "https://dev.lvlv.lv/report"
+            "dest": "https://lvlv.lv/server/report"
         }
     ]
 }
